@@ -18,24 +18,24 @@
     <ClCompile Include="IndianPoker.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cards.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="players.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="game.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="card.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="cards.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="players.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="card.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
