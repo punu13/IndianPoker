@@ -77,12 +77,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="card.cpp" />
+    <ClCompile Include="deck.cpp" />
     <ClCompile Include="game.cpp" />
     <ClCompile Include="IndianPoker.cpp" />
     <ClCompile Include="players.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="card.h" />
+    <ClInclude Include="deck.h" />
     <ClInclude Include="game.h" />
     <ClInclude Include="players.h" />
   </ItemGroup>

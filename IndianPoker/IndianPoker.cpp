@@ -1,11 +1,8 @@
 #include "game.h"
-
+#include "deck.h"
 int main()
 {
-	game *teenPatti;
-	teenPatti = new game;
-
-	teenPatti->start();
-
+	deck *a = new deck();
+	a->showDeck();
 	
 }
